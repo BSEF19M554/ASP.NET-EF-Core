@@ -1,0 +1,13 @@
+input{
+    display: block;
+    width: 30%;
+}
+
+button{
+    margin-top: 10px;
+}
+
+.container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
